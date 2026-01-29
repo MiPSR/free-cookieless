@@ -1,4 +1,9 @@
-#
 # Block domains known for asking to pay to deny cookies
-#
+# SHAME ON YOU
+
+# 2€ MONTHLY
+0.0.0.0 www.allocine.fr
+0.0.0.0 www.jeuxvideo.com
+
+# 1€ ONE-TIME
 0.0.0.0 commentcamarche.net

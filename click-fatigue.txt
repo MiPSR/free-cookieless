@@ -1,0 +1,3 @@
+# Block domains known for using click fatigue to encourage cookie acceptance
+
+0.0.0.0 www.w3docs.com

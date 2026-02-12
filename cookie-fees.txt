@@ -5,6 +5,110 @@
 # PAY OR CONSENT: WITH A MONTHLY PAYMENT
 #------------------------------------------------------
 
+# 4.99 zł MONTHLY
+0.0.0.0 www.transfermarkt.pl
+
+# 3.99€ MONTHLY
+0.0.0.0 as.com
+0.0.0.0 www.aupaathletic.com
+0.0.0.0 www.checkpoint-golf.com
+0.0.0.0 www.emtb-news.de
+0.0.0.0 www.faszination-fankurve.de
+0.0.0.0 www.fitforfun.de
+0.0.0.0 www.fussballfieber.de
+0.0.0.0 gazetefutbol.de
+0.0.0.0 www.gladbachlive.de
+0.0.0.0 www.golfnstyle.de
+0.0.0.0 gruene-zitate.de
+0.0.0.0 www.menshealth.com
+0.0.0.0 www.mtb-news.de
+0.0.0.0 www.nimms-rad.de
+0.0.0.0 outside-stories.de
+0.0.0.0 www.radsport-news.com
+0.0.0.0 www.relevo.com
+0.0.0.0 www.rennrad-news.de
+0.0.0.0 www.runnersworld.com
+0.0.0.0 www.skysportaustria.at
+0.0.0.0 www.sport1.de
+0.0.0.0 www.sportlerfrage.net
+0.0.0.0 www.spox.com
+0.0.0.0 www.transfermarkt.at
+0.0.0.0 www.transfermarkt.be
+0.0.0.0 www.transfermarkt.ch
+0.0.0.0 www.transfermarkt.co
+0.0.0.0 www.transfermarkt.co.id
+0.0.0.0 www.transfermarkt.co.in
+0.0.0.0 www.transfermarkt.co.kr
+0.0.0.0 www.transfermarkt.co.za
+0.0.0.0 www.transfermarkt.com
+0.0.0.0 www.transfermarkt.com.ar
+0.0.0.0 www.transfermarkt.com.br
+0.0.0.0 www.transfermarkt.com.tr
+0.0.0.0 www.transfermarkt.de
+0.0.0.0 www.transfermarkt.es
+0.0.0.0 www.transfermarkt.fr
+0.0.0.0 www.transfermarkt.gr
+0.0.0.0 www.transfermarkt.it
+0.0.0.0 www.transfermarkt.jp
+0.0.0.0 www.transfermarkt.mx
+0.0.0.0 www.transfermarkt.nl
+0.0.0.0 www.transfermarkt.pe
+0.0.0.0 www.transfermarkt.pt
+0.0.0.0 www.transfermarkt.ro
+0.0.0.0 www.transfermarkt.world
+0.0.0.0 www.walfoot.be
+0.0.0.0 www.waller-fangen.de
+0.0.0.0 www.we-go-wild.com
+0.0.0.0 www.womenshealthmag.com
+
+# £3.49 MONTHLY
+0.0.0.0 www.67hailhail.com
+0.0.0.0 www.arsenalinsider.com
+0.0.0.0 www.astonvilla.news
+0.0.0.0 bloodyelbow.com
+0.0.0.0 www.bloodyknockout.com
+0.0.0.0 www.bloodyslam.com
+0.0.0.0 www.boro.news
+0.0.0.0 www.deepdaledigest.com
+0.0.0.0 www.derbycounty.news
+0.0.0.0 www.everton.news
+0.0.0.0 www.f1oversteer.com
+0.0.0.0 www.geordiebootboys.com
+0.0.0.0 www.goal.com
+0.0.0.0 www.hammers.news
+0.0.0.0 www.hitc.com
+0.0.0.0 www.intermiami.news
+0.0.0.0 www.leedsunited.news
+0.0.0.0 www.leicestercity.news
+0.0.0.0 www.manchestercity.news
+0.0.0.0 mlbanalysis.com
+0.0.0.0 www.molineux.news
+0.0.0.0 nbaanalysis.net
+0.0.0.0 nflanalysis.net
+0.0.0.0 www.nottheoldfirm.com
+0.0.0.0 www.nottinghamforest.news
+0.0.0.0 www.portsmouthfc.news
+0.0.0.0 www.rangersnews.uk
+0.0.0.0 www.rousingthekop.com
+0.0.0.0 www.sheffieldunited.news
+0.0.0.0 www.sheffieldwednesday.news
+0.0.0.0 www.sunderlandafc.news
+0.0.0.0 tbrfootball.com
+0.0.0.0 tbrrugby.com
+0.0.0.0 tennishead.net
+0.0.0.0 www.thechelseachronicle.com
+0.0.0.0 www.thecricketgazette.com
+0.0.0.0 www.thedartsinsider.com
+0.0.0.0 www.thegolfinggazette.com
+0.0.0.0 www.thespurs.news
+0.0.0.0 www.thetennisgazette.com
+0.0.0.0 www.thewrexhaminsider.com
+0.0.0.0 www.transfermarkt.co.uk
+0.0.0.0 www.unitedinfocus.com
+0.0.0.0 www.vamofutebol.com
+0.0.0.0 www.wearepalace.uk
+0.0.0.0 www.radiotimes.com
+
 # 2€ MONTHLY
 0.0.0.0 www.3djuegos.com
 0.0.0.0 www.750g.com

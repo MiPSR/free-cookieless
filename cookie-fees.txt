@@ -17,18 +17,27 @@
 0.0.0.0 www.cadenadial.com
 0.0.0.0 www.checkpoint-golf.com
 0.0.0.0 www.chip.de
+0.0.0.0 www.christliche-partnersuche.de
+0.0.0.0 www.clima.com
+0.0.0.0 www.climadobrasil.com.br
 0.0.0.0 www.digitalbusiness-magazin.de
+0.0.0.0 www.eltiempo.es
 0.0.0.0 www.emtb-news.de
 0.0.0.0 www.fahrschule-online.de
 0.0.0.0 www.faszination-fankurve.de
 0.0.0.0 filext.com
 0.0.0.0 www.fitforfun.de
+0.0.0.0 www.forum-fuer-senioren.de
 0.0.0.0 www.free-fonts.com
 0.0.0.0 www.fussballfieber.de
 0.0.0.0 gazetefutbol.de
+0.0.0.0 gesund-verlieben.de
 0.0.0.0 www.gladbachlive.de
 0.0.0.0 www.golfnstyle.de
 0.0.0.0 gruene-zitate.de
+0.0.0.0 www.himmlisch-plaudern.at
+0.0.0.0 www.himmlisch-plaudern.ch
+0.0.0.0 www.himmlisch-plaudern.de
 0.0.0.0 it-learner.de
 0.0.0.0 karrierebibel.de
 0.0.0.0 los40.com
@@ -36,15 +45,18 @@
 0.0.0.0 www.mein-sprungbrett.de
 0.0.0.0 www.menshealth.com
 0.0.0.0 www.mtb-news.de
+0.0.0.0 nationalgeographic.de
 0.0.0.0 www.nextpit.de
 0.0.0.0 www.nextpit.fr
 0.0.0.0 www.nimms-rad.de
+0.0.0.0 www.otempo.pt
 0.0.0.0 outside-stories.de
 0.0.0.0 www.radsport-news.com
 0.0.0.0 www.relevo.com
 0.0.0.0 www.rennrad-news.de
 0.0.0.0 www.rockhard.de
 0.0.0.0 www.runnersworld.com
+0.0.0.0 www.selbstversorger.de
 0.0.0.0 www.skysportaustria.at
 0.0.0.0 www.smartissimo.de
 0.0.0.0 www.sport1.de
@@ -79,6 +91,7 @@
 0.0.0.0 www.transfermarkt.pt
 0.0.0.0 www.transfermarkt.ro
 0.0.0.0 www.transfermarkt.world
+0.0.0.0 uwz.at
 0.0.0.0 www.verben.de
 0.0.0.0 www.verbformen.de
 0.0.0.0 www.verbformen.es
@@ -138,6 +151,7 @@
 0.0.0.0 www.unitedinfocus.com
 0.0.0.0 www.vamofutebol.com
 0.0.0.0 www.wearepalace.uk
+0.0.0.0 www.wetter.com
 0.0.0.0 www.radiotimes.com
 
 # 2€ MONTHLY
@@ -181,5 +195,8 @@
 #------------------------------------------------------
 
 0.0.0.0 www.academiedugout.fr # 7.99€ MONTHLY
+0.0.0.0 www.frandroid.com # 9.99€ YEARLY
 0.0.0.0 www.gamepro.de # 2.99€ MONTHLY
+0.0.0.0 www.huffingtonpost.fr # # 2€ MONTHLY
 0.0.0.0 www.numerama.com # 2.07€ BIYEARLY OR MORE
+0.0.0.0 www.ouest-france.fr # 2€ MONTHLY OR MORE
